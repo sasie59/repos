@@ -1,0 +1,29 @@
+.loading {
+  bottom: 0;
+  width: 100%;
+  color: #fff;
+  padding: 10px 0;
+  position: fixed;
+  text-align: center;
+  background-color: rgba(0, 0, 0, .8);
+}
+
+.repo > div {
+  padding: 5px;
+}
+
+.repo > .name {
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: bold;
+  background-color: #333;
+  text-transform: uppercase;
+}
+
+.repo > .desc {
+  color: #999;
+}
+
+.repo > .url {
+  color: #333;
+}
